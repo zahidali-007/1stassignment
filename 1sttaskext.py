@@ -1,0 +1,7 @@
+num1 = int(input("Enter 1st number : "))
+num2 = int(input("Enter 2nd number : "))
+print("The Sum of ", num1, "and ", num2, "is = ", num1+num2)
+print("The Subtraction of ", num1, "and ", num2, "is = ", num1-num2)
+print("The Multiplication of ", num1, "and ", num2, "is = ", num1*num2)
+print("The Division of ", num1, "and ", num2, "is = ", num1/num2)
+print("The Modulus of ", num1, "and ", num2, "is = ", num1%num2)
